@@ -1,4 +1,6 @@
-﻿namespace SalesWebMvc.Models.ViewModels
+﻿using System.Collections.Generic;
+
+namespace SalesWebMvc.Models.ViewModels
 {
     public class SellerFormViewModel
     {
