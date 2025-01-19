@@ -4,15 +4,17 @@
 
 
 <h2>🛠️ Tecnologias Utilizadas</h2>
-<div> <p><img align="center" alt="ASP.NET Core" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg"> **ASP.NET Core 8:** Framework para criação de aplicações web modernas e escaláveis.</p> <p><img align="center" alt="EF Core" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"> **Entity Framework Core:** ORM para manipulação de dados no banco de dados.</p> <p><img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> **C#:** Linguagem principal para implementação da lógica do sistema.</p> <p><img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> **HTML5:** Estruturação da interface do usuário.</p> <p><img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> **CSS3:** Estilização do layout e aprimoramento da experiência do usuário.</p> </div> <br>
+<div>
+<p><img align="center" alt="ASP.NET Core" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg"><strong>ASP.NET Core 8:</strong> Framework para criação de aplicações web modernas e escaláveis.</p> <p><img align="center" alt="EF Core" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"><strong>Entity Framework Core:</strong> ORM para manipulação de dados no banco de dados.</p> <p><img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"><strong>C#:</strong> Linguagem principal para implementação da lógica do sistema.</p><p><img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><strong>HTML5:</strong> Estruturação da interface do usuário.</p> <p><img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><strong>CSS3:</strong> Estilização do layout e aprimoramento da experiência do usuário.</p>
+</div><br>
 
 
 <h2>🚀 Funcionalidades</h2>
 <div>
-<strong>- Cadastro e Gerenciamento:</strong> Permite realizar operações de CRUD (criação, leitura, atualização e exclusão) de vendedores e departamentos;<br>
-<strong>- Tratamento de Erros:</strong> Implementação de estratégias para tratar erros transitórios no banco de dados;<br>
-<strong>- Operações Assíncronas:</strong> Melhora a eficiência do sistema por meio do uso de tarefas assíncronas;<br>
-<strong>- Relatórios e Análises:</strong> Interface que permite visualizar e analisar informações dos vendedores e departamentos de forma clara e organizada.
+<strong>**Cadastro e Gerenciamento:</strong> Permite realizar operações de CRUD (criação, leitura, atualização e exclusão) de vendedores e departamentos;<br>
+<strong>Tratamento de Erros:</strong> Implementação de estratégias para tratar erros transitórios no banco de dados;<br>
+<strong>Operações Assíncronas:</strong> Melhora a eficiência do sistema por meio do uso de tarefas assíncronas;<br>
+<strong>Relatórios e Análises:</strong> Interface que permite visualizar e analisar informações dos vendedores e departamentos de forma clara e organizada.
 </div> <br>
 
 
