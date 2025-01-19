@@ -11,19 +11,24 @@
 
 <h2>🚀 Funcionalidades</h2>
 <div>
-<strong>**Cadastro e Gerenciamento:</strong> Permite realizar operações de CRUD (criação, leitura, atualização e exclusão) de vendedores e departamentos;<br>
-<strong>Tratamento de Erros:</strong> Implementação de estratégias para tratar erros transitórios no banco de dados;<br>
-<strong>Operações Assíncronas:</strong> Melhora a eficiência do sistema por meio do uso de tarefas assíncronas;<br>
-<strong>Relatórios e Análises:</strong> Interface que permite visualizar e analisar informações dos vendedores e departamentos de forma clara e organizada.
+  <ul>
+    <li><strong>Cadastro e Gerenciamento:</strong> Permite realizar operações de CRUD (criação, leitura, atualização e exclusão) de vendedores e departamentos;</li>
+    <li><strong>Tratamento de Erros:</strong> Implementação de estratégias para tratar erros transitórios no banco de dados;</li>
+    <li><strong>Operações Assíncronas:</strong> Melhora a eficiência do sistema por meio do uso de tarefas assíncronas;</li>
+    <li><strong>Relatórios e Análises:</strong> Interface que permite visualizar e analisar informações dos vendedores e departamentos de forma clara e organizada.</li>
+  </ul>
 </div> <br>
 
 
 <h2>📂 Estrutura do Projeto</h2>
-<div> <p>O projeto é composto pelos seguintes arquivos e diretórios:</p>
-- <strong>& SalesWebMvc.sln:</strong> Solução principal do projeto no Visual Studio 2022;<br>
-- <strong>Controllers:</strong> Camada responsável por gerenciar as interações entre o modelo e a visão, utilizando lógica para manipulação de dados;<br>
-- <strong>Models:</strong> Define as classes que representam a lógica de negócios e a estrutura dos dados;<br>
-- <strong>Views:</strong> Contém os arquivos HTML e Razor que formam a interface do usuário;<br>
-- <strong>appsettings.json:</strong> Arquivo de configuração que inclui as definições do banco de dados;<br>
-- <strong>wwwroot:</strong> Contém os arquivos estáticos, como CSS, JavaScript e imagens.
+<div>
+  <p>O projeto é composto pelos seguintes arquivos e diretórios:</p>
+  <ul>
+    <li><strong>& SalesWebMvc.sln:</strong> Solução principal do projeto no Visual Studio 2022;</li>
+    <li><strong>Controllers:</strong> Camada responsável por gerenciar as interações entre o modelo e a visão, utilizando lógica para manipulação de dados;</li>
+    <li><strong>Models:</strong> Define as classes que representam a lógica de negócios e a estrutura dos dados;</li>
+    <li><strong>Views:</strong> Contém os arquivos HTML e Razor que formam a interface do usuário;</li>
+    <li><strong>appsettings.json:</strong> Arquivo de configuração que inclui as definições do banco de dados;</li>
+    <li><strong>wwwroot:</strong> Contém os arquivos estáticos, como CSS, JavaScript e imagens.</li>
+  </ul>
 </div> <br>
