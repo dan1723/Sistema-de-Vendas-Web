@@ -32,3 +32,30 @@
     <li><strong>wwwroot:</strong> Contém os arquivos estáticos, como CSS, JavaScript e imagens.</li>
   </ul>
 </div> <br>
+
+<h2>🧩 Como Funciona</h2>
+<div>
+  <ul>
+    <li><strong>Gerenciamento de Vendedores:</strong> Cadastre, edite, visualize e exclua informações dos vendedores de forma prática e eficiente;</li>
+    <li><strong>Organização por Departamentos:</strong> Relacione vendedores a departamentos específicos e gerencie os dados com facilidade;</li>
+    <li><strong>Relatórios:</strong> Gere relatórios dinâmicos para análise de desempenho, como números totais, somas e médias;</li>
+    <li><strong>Resiliência:</strong> A aplicação gerencia erros transitórios e oferece uma experiência estável ao usuário.</li>
+  </ul>
+</div> <br>
+
+<h2>⚙️ Pré-requisitos</h2>
+<p>Para rodar este projeto, você precisará de:</p>
+<ul>
+  <li>Visual Studio 2022 instalado;</li>
+  <li>.NET SDK 8.0 ou superior;</li>
+  <li>Banco de dados compatível (ex.: SQL Server).</li>
+</ul><br>
+
+<h2>🖼️ Layout</h2>
+<p>O layout da aplicação é funcional e minimalista, utilizando as melhores práticas de design para uma experiência de usuário fluida. Com um tema limpo e intuitivo, o sistema organiza as informações de forma clara e acessível.</p> <br>
+
+<h2>📜 Licença</h2>
+<p>Este projeto é fornecido sob a licença MIT. Sinta-se à vontade para utilizá-lo, modificá-lo e adaptá-lo conforme suas necessidades.</p><br>
+
+<h2>📬 Contato</h2>
+<p>Caso tenha dúvidas ou sugestões, entre em contato com o desenvolvedor pelo <strong>e-mail:</strong><em> dan.gomes1723@gmail.com</em></p>
